@@ -130,10 +130,10 @@
 .myVd4c .ySES5,.gb_rb.gb_rb{
     background-color: #3c3c3c;
 }
-.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.kiSRoe,.q6oraf .VfPpkd-StrnGf-rymPhb{
+.RvYhPd.Q5Onnd, .RvYhPd.dtohSe,.kiSRoe,.q6oraf .VfPpkd-StrnGf-rymPhb,.IQu6Fd{
     background-color: #1c1c1c;
 }
-.gb_E,.gb_vb.gb_vb,.gb_Cb.gb_Cb,.gb_rb.gb_rb,.gb_k .gb_nb,.gb_sb,.gb_tb.gb_tb,.zRANPd:not(:disabled),.q6oraf .VfPpkd-StrnGf-rymPhb{
+.gb_E,.gb_vb.gb_vb,.gb_Cb.gb_Cb,.gb_rb.gb_rb,.gb_k .gb_nb,.gb_sb,.gb_tb.gb_tb,.zRANPd:not(:disabled),.q6oraf .VfPpkd-StrnGf-rymPhb,.kgJkHd{
     color: #eee;
 }
 .gb_k .gb_lb{
@@ -150,26 +150,30 @@
     background-color: #2c2c2c;
 /*     border-bottom: 1px solid #aaa; */
 }
-.JVGQzb,.j27i7{
+.JVGQzb,.j27i7,.HBuoue{
     color: #eee;
 }
 .Q2P1Eb:hover,.vvNkBd:hover,.tvua2:hover,.zRANPd:not(:disabled):hover{
     background-color: #000;
     color: #fff;
 }
-.XMNbjd,.v2OCrb,.trWsae,.HswdMd,.mTQVx,.ZQWYD,.aWlm2e,.AP34ab{
+.XMNbjd,.v2OCrb,.trWsae,.HswdMd,.mTQVx,.ZQWYD,.aWlm2e,.AP34ab,.vxsGZ,.VfPpkd-vQzf8d,.EXtLjf{
     color: #fff;
 }
-.INImOe{
+.INImOe,.NMm5M{
     fill: #fff;
 }
 .BnqVXb{
     filter: invert(10%);
 }
-.EYBmYc,.uqiNJb,.nIvUSc,.oWkzh,.rlqS5d,.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-M1Soyc,.irVajb{
+.EYBmYc,.uqiNJb,.nIvUSc,.oWkzh,.rlqS5d,.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-M1Soyc,.irVajb,.HYAIUe{
     color: #ddd;
 }
 .vvNkBd:not(:last-of-type){
     border-bottom: 1px solid #888;
+}
+.v2OCrb.Fc1vAd{
+    background-color: #2c2c3c;
+    color: #02e;
 }
 }
