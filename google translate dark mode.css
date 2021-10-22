@@ -1,5 +1,5 @@
 @-moz-document domain("translate.google.cn"), domain("translate.google.com") {
-.T4LgNb,.zQTmif,.SSPGKf,.RvYhPd,.BIdYQ,.aL9XFd,.gb_pa .gb_Fd.gb_Ld.gb_Md{
+.T4LgNb,.zQTmif,.SSPGKf,.RvYhPd,.BIdYQ,.aL9XFd,.gb_pa .gb_Fd.gb_Ld.gb_Md,body,html{
     background-color: #1c1c1c;
 }
 .gb_pa svg,.gb_C[aria-expanded=true] .gb_Pe, .gb_C[aria-expanded=true] .gb_Qe{
@@ -97,6 +97,31 @@
     background-color: #333;
 }
 
+.Xcmxjb.FwR7Pc,.JLqJ4b.C1N51c{
+    background-color: #001bff;
+    color: #fff;
+}
+.gb_Ke{
+    display: none;
+}
+::-webkit-scrollbar{
+    background-color: #1c1c1c;
+    width: 15px;
+}
+::-webkit-scrollbar-thumb{
+    background: #0f0f0f;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: #000;
+}
+::-webkit-scrollbar-button{
+    background-color: #000;
+    height: 20px;
+}
+::-webkit-scrollbar-button:hover{
+    background-color: #fff;
+}
+
 }
 
 @-moz-document url-prefix("https://ogs.google.com/widget/app/so?bc=1&origin=https%3A%2F%2Ftranslate.google.cn"), url-prefix("https://ogs.google.com/u/0/widget/app?bc=1&origin=https%3A%2F%2Ftranslate.google.com") {
@@ -115,6 +140,15 @@
     margin: 0;
 }
 
+::-webkit-scrollbar{
+    background-color: #222;
+}
+.EHzcec::-webkit-scrollbar-thumb{
+    background-color: #0f0f0f;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: #000;
+}
 }
 
 @-moz-document domain("translate.google.com") {
